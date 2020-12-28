@@ -10,7 +10,19 @@ JPN: LTspiceでダイオードリングミキサーをシミュレートする�
 
 ## Result FFT (JPN: 結果のFFT出力)
 
-![schematic](ScreenShot02_FFT.png)
+
+|No|Frequency| Description|
+----|----|----
+|① |450kHz| RF-LO|
+|② |550kHz| LO|
+|③ |650kHz| ?|
+|- |1000kHz| RF|
+|④ |1550kHz| RF+LO|
+
 
 ![schematic](ScreenShot03_FFT.png)
+
+
+![schematic](ScreenShot02_FFT.png)
+
 
